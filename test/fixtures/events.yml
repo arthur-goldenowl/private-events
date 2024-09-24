@@ -4,8 +4,12 @@ one:
   title: MyString
   description: MyText
   date: 2024-09-24 10:21:29
+  location: MyString
+  creator_id: 1
 
 two:
   title: MyString
   description: MyText
   date: 2024-09-24 10:21:29
+  location: MyString
+  creator_id: 1
